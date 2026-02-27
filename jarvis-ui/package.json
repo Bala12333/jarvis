@@ -1,0 +1,28 @@
+{
+  "name": "jarvis-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@livekit/components-react": "latest",
+    "@livekit/components-styles": "^1.2.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "livekit-client": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^4.0.0",
+    "vite": "latest"
+  }
+}
